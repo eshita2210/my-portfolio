@@ -1,6 +1,6 @@
 # Personal Portfolio Website in React
 
-<img width="1266" alt="SS PROJECT" src="src/assets/img/SS PROJECT.png">
+<img width="1266" alt="SS PROJECT" src="SS PROJECT.png">
 <hr>
 
 ## Built using:
